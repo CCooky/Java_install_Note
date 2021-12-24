@@ -24,7 +24,8 @@ NODE
 
 VSCDOE	
 
-1. 无法识别Npm报错	
+1. 无法识别Npm报错
+2. 必备插件	
 
 VUE	
 
