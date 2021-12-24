@@ -27,3 +27,7 @@ VSCDOE
 1. 无法识别Npm报错	
 
 VUE	
+
+Git	
+1. git右键菜单找不到应用程序	
+2. Idea管理git分支（有基础的同学）
